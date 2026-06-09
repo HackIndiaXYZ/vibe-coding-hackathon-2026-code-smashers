@@ -120,19 +120,12 @@ Startup Autopsy transforms startup history into actionable intelligence by learn
 
 
 
- Live Demo
-
-[Add Your Deployed Link Here]
-
-
 
  Team
 
 Code Smashers
 
 HackIndia Vibe Coding Hackathon 2026
-
-
 
  Final Thought 
 
