@@ -124,7 +124,9 @@ Startup Autopsy transforms startup history into actionable intelligence by learn
 
 Code Smashers
 
+
 HackIndia Vibe Coding Hackathon 2026
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ea3d7424-7949-4f48-933a-e5e20aa2bc1b" />
 
  Final Thought 
