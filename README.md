@@ -134,4 +134,4 @@ HackIndia Vibe Coding Hackathon 2026
 
  Final Thought 
 
- The best way to predict a startup's future is to learn from the startups that came before it .
+ The best way to predict a startup's future is to learn from the startups that came before it
